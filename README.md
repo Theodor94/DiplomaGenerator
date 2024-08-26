@@ -1,4 +1,4 @@
-Diploma Generator is a powerful tool designed to simplify the creation of diplomas. Whether you're generating diplomas manually or processing them in bulk via an Excel file, this application helps you create both .docx and .pdf files with ease.
+Diploma Generator is a efficient tool designed to simplify the creation of diplomas. Whether you're generating diplomas manually or processing them in bulk via an Excel file, this application helps you create both .docx and .pdf files with ease.
 
 Key Features:
 
