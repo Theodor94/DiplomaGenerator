@@ -1,21 +1,23 @@
-MIT License
+MIT License (Modified)
 
-Copyright (c) 2024 Theodor94
+Copyright (c) 2024 Theodor94 (https://github.com/Theodor94)
+App language: RO
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software (the "Software"), to use the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+2. The source code of this Software is not provided. The Software is distributed only in binary form (executable files).
+3. The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This application is freely available to the public. The application is provided without any warranty or support, and the developer retains all rights to the source code.
+
+RO:
+
+Prin prezenta se acorda permisiunea, gratuit, oricarei persoane care obtine o copie a acestui software (denumit in continuare "Software"), de a utiliza Software-ul fara restrictii, inclusiv, dar fara a se limita la drepturile de a utiliza, copia, modifica, fuziona, publica, distribui, sublicentia si/sau vinde copii ale Software-ului, sub rezerva urmatoarelor conditii:
+
+Nota de copyright de mai sus si aceasta notificare de permisiune trebuie incluse in toate copiile sau portiunile substantiale ale Software-ului.
+Codul sursa al acestui Software nu este furnizat. Software-ul este distribuit doar in forma binara (fisiere executabile).
+
+Software-ul este furnizat "asa cum este", fara nicio garantie de orice fel, expresa sau implicita, inclusiv, dar fara a se limita la garantiile de comercializare, potrivire pentru un anumit scop si neincalcarea drepturilor. In niciun caz autorii sau titularii drepturilor de autor nu vor fi raspunzatori pentru orice revendicare, daune sau alta raspundere, fie in cadrul unui contract, fie in cazul unui delict sau altfel, care rezulta din, sau in legatura cu Software-ul sau utilizarea sau alte relatii cu Software-ul.
+
+Aceasta aplicatie este disponibila gratuit publicului larg. Aplicatia este furnizata fara nicio garantie sau suport, iar dezvoltatorul isi pastreaza toate drepturile asupra codului sursa.
