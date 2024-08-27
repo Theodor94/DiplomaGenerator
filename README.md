@@ -1,10 +1,9 @@
 ### Important Notice
 
 **System Requirements:**
-- **Microsoft Office:** The application requires Microsoft Office 2007 or later (desktop version) to be installed. The application interacts with Microsoft Word through COM automation, which is not supported by OpenOffice, LibreOffice, or other alternatives.
-- **Windows Version:** The application is compatible with Windows 7 SP1 or later. Ensure that the Windows version you are using is supported by the installed version of Microsoft Office.
+- **Microsoft Office:** The application requires Microsoft Office 2007 or later (desktop version) to be installed. The application uses MS Office SDK, which is not supported by OpenOffice, LibreOffice, or other alternatives. Compatible with Windows 7 SP1 or later.
 
-**Warning:** If Microsoft Office is not installed, the application will not function correctly and will produce errors. This is particularly important for users attempting to use OpenOffice, LibreOffice, or other non-Microsoft alternatives, as they are not compatible with this application.
+**Warning:** If Microsoft Office is not installed, the application will not function correctly and will produce errors. This also means that users attempting to use the app while having OpenOffice, LibreOffice, or other non-Microsoft alternatives installed, the app will fail, as they are not compatible with this application.
 
 Diploma Generator is an efficient tool designed to simplify the creation of diplomas. Whether you're generating diplomas manually or processing them in bulk via an Excel file, this application helps you create both .docx and .pdf files with ease.
 
